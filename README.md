@@ -6,3 +6,5 @@ I'll be using this to learn most of the functions and get used to the interface 
 update : just learn about issues and pulling requests .
 
 update : learning how to invite and manage collaborators .
+
+update : just learned about cloning a repo from cloud to local pc .
