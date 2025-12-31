@@ -1,6 +1,8 @@
 # Learning-GIT
-My first repository created for learning features and functions of a repository 
+My first repository created for learning features and functions of a repository .
 
-I'll be using this to learn most of the functions and get used to the interface.
+I'll be using this to learn most of the functions and get used to the interface .
 
 update : just learn about issues and pulling requests .
+
+update : learning how to invite and manage collaborators .
